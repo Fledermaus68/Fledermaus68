@@ -17,6 +17,10 @@ I like to code with Java, Python and Go.
 
 - [**Discord Python Bot**](https://github.com/Fledermaus68/Discord-Python-Bot)  
  A simple discord python bot
+
+- [**controlbot**](https://github.com/Fledermaus68/controlbot)  
+ A discord bot with moderation, fun, logsystem, tempchannel, autorole
+
 <img width="100%" src="https://github.com/zekroTJA/zekroTJA/blob/master/media/senjou-cropped.gif"/>
 
 Inspired by zekroTJA
